@@ -16,7 +16,7 @@ Term: Spring 2023
 
 + Three sections are explained in the report:
 
-i.Comparison of words frequency between three philosophers.  
+i.Comparison of words frequency between philosophers.  
 
 ii.Among three famous philosophers, which words they used frequently?  
 
